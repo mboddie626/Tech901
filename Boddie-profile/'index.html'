@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Profile Card</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <div class="card">
+            <div class="profile>
+                <div class="profile-pic">
+                    <img src="images/tech901logo.jpg" alt="Tech901 Logo"
+            </div>
+        </div>
+        <div class="info">
+            <div class="name>Marnisha Boddie</div>
+            <div class="profession">Student<//div>
+            <div class="divider"></div>
+            <div class="bio">
+            <p> I have played around with many blog and ecommerce things, but none of them had exactly what I was looking for. I want to learn to code so that i can customize my websites with the exact look and feel I think best fits them.</p>
+            </div>
+            <div class="button"></div>
+            </div>
+        </div>
+    </body>
+<html> 
